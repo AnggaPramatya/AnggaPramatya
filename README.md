@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Angga Pramatya
 - 👀 I’m interested in drawing and designing
-- 🌱 I’m currently learning python, css, java
+- 🌱 I’m currently learning python, HTML, css
 - 📫 How to reach me ...
 
 <!---
